@@ -1,0 +1,1040 @@
+﻿eTable 8. Spearman associations bewtween Species versus SCFAs metabolites,,,,
+,,,,
+Short chain fatty acid,Species,rho,p-value,FDR
+Acetic acid,Acidaminococcus fermentans,0.198,0.0974,0.845
+Butyric acid,Acidaminococcus fermentans,0.134,0.265,0.859
+Isobutyric acid,Acidaminococcus fermentans,0.181,0.131,0.845
+Isovaleric acid,Acidaminococcus fermentans,0.187,0.119,0.845
+Propionic acid ,Acidaminococcus fermentans,0.181,0.131,0.845
+Acetic acid,Acidaminococcus intestini,-0.0104,0.931,0.993
+Butyric acid,Acidaminococcus intestini,-0.148,0.22,0.85
+Isobutyric acid,Acidaminococcus intestini,0.032,0.791,0.973
+Isovaleric acid,Acidaminococcus intestini,-0.054,0.654,0.947
+Propionic acid ,Acidaminococcus intestini,-0.0521,0.666,0.948
+Acetic acid,Acidaminococcus unclassified,-0.0447,0.712,0.96
+Butyric acid,Acidaminococcus unclassified,-0.225,0.0587,0.845
+Isobutyric acid,Acidaminococcus unclassified,-0.0335,0.782,0.971
+Isovaleric acid,Acidaminococcus unclassified,-0.245,0.0391,0.845
+Propionic acid ,Acidaminococcus unclassified,-0.234,0.0499,0.845
+Acetic acid,Actinobacillus unclassified,0.0583,0.629,0.941
+Butyric acid,Actinobacillus unclassified,-0.0117,0.923,0.992
+Isobutyric acid,Actinobacillus unclassified,0.111,0.358,0.877
+Isovaleric acid,Actinobacillus unclassified,0.07,0.562,0.925
+Propionic acid ,Actinobacillus unclassified,0.14,0.244,0.856
+Acetic acid,Adlercreutzia equolifaciens,0.0811,0.502,0.908
+Butyric acid,Adlercreutzia equolifaciens,0.032,0.791,0.973
+Isobutyric acid,Adlercreutzia equolifaciens,0.173,0.149,0.845
+Isovaleric acid,Adlercreutzia equolifaciens,0.162,0.178,0.845
+Propionic acid ,Adlercreutzia equolifaciens,0.0585,0.628,0.941
+Acetic acid,Akkermansia muciniphila,-0.0803,0.506,0.908
+Butyric acid,Akkermansia muciniphila,0.175,0.144,0.845
+Isobutyric acid,Akkermansia muciniphila,-0.145,0.228,0.852
+Isovaleric acid,Akkermansia muciniphila,-0.148,0.217,0.85
+Propionic acid ,Akkermansia muciniphila,-0.144,0.23,0.852
+Acetic acid,Alistipes finegoldii,0.203,0.0902,0.845
+Butyric acid,Alistipes finegoldii,-0.00995,0.934,0.994
+Isobutyric acid,Alistipes finegoldii,0.00858,0.943,0.995
+Isovaleric acid,Alistipes finegoldii,0.101,0.404,0.891
+Propionic acid ,Alistipes finegoldii,-0.0838,0.487,0.908
+Acetic acid,Alistipes indistinctus,-0.081,0.502,0.908
+Butyric acid,Alistipes indistinctus,0.00238,0.984,1
+Isobutyric acid,Alistipes indistinctus,-0.102,0.397,0.888
+Isovaleric acid,Alistipes indistinctus,-0.197,0.0991,0.845
+Propionic acid ,Alistipes indistinctus,-0.191,0.11,0.845
+Acetic acid,Alistipes onderdonkii,0.0549,0.649,0.945
+Butyric acid,Alistipes onderdonkii,0.113,0.347,0.877
+Isobutyric acid,Alistipes onderdonkii,-0.0669,0.579,0.931
+Isovaleric acid,Alistipes onderdonkii,0.0264,0.827,0.979
+Propionic acid ,Alistipes onderdonkii,-0.0554,0.646,0.944
+Acetic acid,Alistipes putredinis,0.0851,0.48,0.908
+Butyric acid,Alistipes putredinis,-0.122,0.311,0.87
+Isobutyric acid,Alistipes putredinis,0.0288,0.812,0.975
+Isovaleric acid,Alistipes putredinis,0.00946,0.938,0.994
+Propionic acid ,Alistipes putredinis,-0.0554,0.646,0.944
+Acetic acid,Alistipes senegalensis,0.242,0.0419,0.845
+Butyric acid,Alistipes senegalensis,-0.0523,0.665,0.947
+Isobutyric acid,Alistipes senegalensis,0.107,0.376,0.883
+Isovaleric acid,Alistipes senegalensis,0.17,0.157,0.845
+Propionic acid ,Alistipes senegalensis,0.153,0.203,0.845
+Acetic acid,Alistipes shahii,0.172,0.152,0.845
+Butyric acid,Alistipes shahii,0.0288,0.811,0.974
+Isobutyric acid,Alistipes shahii,0.0422,0.727,0.964
+Isovaleric acid,Alistipes shahii,0.137,0.254,0.859
+Propionic acid ,Alistipes shahii,0.153,0.204,0.845
+Acetic acid,Alistipes sp HGB5,-0.109,0.364,0.878
+Butyric acid,Alistipes sp HGB5,-0.138,0.25,0.859
+Isobutyric acid,Alistipes sp HGB5,-0.23,0.0533,0.845
+Isovaleric acid,Alistipes sp HGB5,0.00274,0.982,0.999
+Propionic acid ,Alistipes sp HGB5,-0.187,0.118,0.845
+Acetic acid,Alistipes unclassified,0.119,0.324,0.874
+Butyric acid,Alistipes unclassified,0.0123,0.919,0.992
+Isobutyric acid,Alistipes unclassified,0.141,0.24,0.856
+Isovaleric acid,Alistipes unclassified,0.101,0.404,0.891
+Propionic acid ,Alistipes unclassified,0.175,0.144,0.845
+Acetic acid,Anaerostipes caccae,NA,NA,NA
+Butyric acid,Anaerostipes caccae,NA,NA,NA
+Isobutyric acid,Anaerostipes caccae,NA,NA,NA
+Isovaleric acid,Anaerostipes caccae,NA,NA,NA
+Propionic acid ,Anaerostipes caccae,NA,NA,NA
+Acetic acid,Anaerostipes hadrus,0.00169,0.989,1
+Butyric acid,Anaerostipes hadrus,0.137,0.254,0.859
+Isobutyric acid,Anaerostipes hadrus,-0.0185,0.878,0.986
+Isovaleric acid,Anaerostipes hadrus,-0.00848,0.944,0.995
+Propionic acid ,Anaerostipes hadrus,-0.0665,0.582,0.932
+Acetic acid,Anaerostipes unclassified,0.134,0.265,0.859
+Butyric acid,Anaerostipes unclassified,0.146,0.225,0.85
+Isobutyric acid,Anaerostipes unclassified,0.192,0.108,0.845
+Isovaleric acid,Anaerostipes unclassified,0.192,0.108,0.845
+Propionic acid ,Anaerostipes unclassified,0.198,0.0974,0.845
+Acetic acid,Anaerotruncus colihominis,0.000776,0.995,1
+Butyric acid,Anaerotruncus colihominis,0.218,0.0681,0.845
+Isobutyric acid,Anaerotruncus colihominis,0.0258,0.831,0.98
+Isovaleric acid,Anaerotruncus colihominis,0.0307,0.8,0.974
+Propionic acid ,Anaerotruncus colihominis,-0.031,0.798,0.974
+Acetic acid,Anaerotruncus unclassified,-0.0467,0.699,0.956
+Butyric acid,Anaerotruncus unclassified,0.0262,0.828,0.98
+Isobutyric acid,Anaerotruncus unclassified,-0.0612,0.612,0.94
+Isovaleric acid,Anaerotruncus unclassified,-0.163,0.174,0.845
+Propionic acid ,Anaerotruncus unclassified,-0.163,0.174,0.845
+Acetic acid,Bacteroidales bacterium ph8,0.122,0.311,0.87
+Butyric acid,Bacteroidales bacterium ph8,0.0694,0.565,0.925
+Isobutyric acid,Bacteroidales bacterium ph8,0.047,0.697,0.956
+Isovaleric acid,Bacteroidales bacterium ph8,0.082,0.497,0.908
+Propionic acid ,Bacteroidales bacterium ph8,-0.0266,0.826,0.979
+Acetic acid,Bacteroides caccae,0.103,0.391,0.885
+Butyric acid,Bacteroides caccae,0.00935,0.938,0.994
+Isobutyric acid,Bacteroides caccae,0.102,0.397,0.888
+Isovaleric acid,Bacteroides caccae,0.138,0.253,0.859
+Propionic acid ,Bacteroides caccae,0.185,0.122,0.845
+Acetic acid,Bacteroides cellulosilyticus,-0.106,0.379,0.883
+Butyric acid,Bacteroides cellulosilyticus,-0.0533,0.659,0.947
+Isobutyric acid,Bacteroides cellulosilyticus,-0.206,0.0848,0.845
+Isovaleric acid,Bacteroides cellulosilyticus,-0.0773,0.522,0.915
+Propionic acid ,Bacteroides cellulosilyticus,-0.136,0.259,0.859
+Acetic acid,Bacteroides clarus,0.224,0.0604,0.845
+Butyric acid,Bacteroides clarus,0.0603,0.618,0.941
+Isobutyric acid,Bacteroides clarus,0.247,0.0375,0.845
+Isovaleric acid,Bacteroides clarus,0.189,0.115,0.845
+Propionic acid ,Bacteroides clarus,0.0899,0.456,0.904
+Acetic acid,Bacteroides coprocola,-0.235,0.0488,0.845
+Butyric acid,Bacteroides coprocola,-0.195,0.104,0.845
+Isobutyric acid,Bacteroides coprocola,-0.125,0.3,0.868
+Isovaleric acid,Bacteroides coprocola,-0.122,0.311,0.87
+Propionic acid ,Bacteroides coprocola,-0.118,0.327,0.874
+Acetic acid,Bacteroides coprophilus,0.21,0.0786,0.845
+Butyric acid,Bacteroides coprophilus,0.182,0.13,0.845
+Isobutyric acid,Bacteroides coprophilus,0.0207,0.864,0.983
+Isovaleric acid,Bacteroides coprophilus,0.151,0.207,0.845
+Propionic acid ,Bacteroides coprophilus,0.14,0.245,0.857
+Acetic acid,Bacteroides dorei,-0.106,0.38,0.883
+Butyric acid,Bacteroides dorei,-0.167,0.163,0.845
+Isobutyric acid,Bacteroides dorei,-0.206,0.0848,0.845
+Isovaleric acid,Bacteroides dorei,-0.126,0.297,0.866
+Propionic acid ,Bacteroides dorei,-0.32,0.00654,0.845
+Acetic acid,Bacteroides eggerthii,-0.0308,0.799,0.974
+Butyric acid,Bacteroides eggerthii,0.216,0.0708,0.845
+Isobutyric acid,Bacteroides eggerthii,-0.0752,0.533,0.917
+Isovaleric acid,Bacteroides eggerthii,-0.0119,0.921,0.992
+Propionic acid ,Bacteroides eggerthii,0.02,0.869,0.985
+Acetic acid,Bacteroides faecis,0.157,0.192,0.845
+Butyric acid,Bacteroides faecis,-0.199,0.0968,0.845
+Isobutyric acid,Bacteroides faecis,0.182,0.13,0.845
+Isovaleric acid,Bacteroides faecis,-0.00194,0.987,1
+Propionic acid ,Bacteroides faecis,0.092,0.445,0.897
+Acetic acid,Bacteroides finegoldii,0.0466,0.699,0.956
+Butyric acid,Bacteroides finegoldii,0.0217,0.858,0.983
+Isobutyric acid,Bacteroides finegoldii,0.0809,0.503,0.908
+Isovaleric acid,Bacteroides finegoldii,0.0234,0.846,0.98
+Propionic acid ,Bacteroides finegoldii,-0.0682,0.572,0.927
+Acetic acid,Bacteroides fluxus,-0.0531,0.66,0.947
+Butyric acid,Bacteroides fluxus,0.0124,0.918,0.992
+Isobutyric acid,Bacteroides fluxus,-0.194,0.105,0.845
+Isovaleric acid,Bacteroides fluxus,-0.0716,0.553,0.925
+Propionic acid ,Bacteroides fluxus,-0.241,0.0426,0.845
+Acetic acid,Bacteroides fragilis,-0.127,0.291,0.866
+Butyric acid,Bacteroides fragilis,0.0868,0.472,0.906
+Isobutyric acid,Bacteroides fragilis,-0.0829,0.492,0.908
+Isovaleric acid,Bacteroides fragilis,-0.0663,0.583,0.932
+Propionic acid ,Bacteroides fragilis,-0.176,0.141,0.845
+Acetic acid,Bacteroides gallinarum,0.129,0.285,0.863
+Butyric acid,Bacteroides gallinarum,0.143,0.236,0.855
+Isobutyric acid,Bacteroides gallinarum,0.182,0.129,0.845
+Isovaleric acid,Bacteroides gallinarum,0.152,0.205,0.845
+Propionic acid ,Bacteroides gallinarum,0.00667,0.956,0.996
+Acetic acid,Bacteroides intestinalis,0.148,0.218,0.85
+Butyric acid,Bacteroides intestinalis,-0.145,0.228,0.852
+Isobutyric acid,Bacteroides intestinalis,0.262,0.0273,0.845
+Isovaleric acid,Bacteroides intestinalis,0.144,0.23,0.852
+Propionic acid ,Bacteroides intestinalis,0.00515,0.966,0.996
+Acetic acid,Bacteroides massiliensis,-0.0958,0.427,0.894
+Butyric acid,Bacteroides massiliensis,0.00734,0.952,0.996
+Isobutyric acid,Bacteroides massiliensis,-0.117,0.333,0.874
+Isovaleric acid,Bacteroides massiliensis,0.0178,0.883,0.986
+Propionic acid ,Bacteroides massiliensis,-0.0156,0.898,0.99
+Acetic acid,Bacteroides nordii,0.0549,0.649,0.945
+Butyric acid,Bacteroides nordii,0.0818,0.498,0.908
+Isobutyric acid,Bacteroides nordii,0.194,0.105,0.845
+Isovaleric acid,Bacteroides nordii,0.11,0.363,0.878
+Propionic acid ,Bacteroides nordii,0.139,0.246,0.858
+Acetic acid,Bacteroides ovatus,-0.0946,0.433,0.894
+Butyric acid,Bacteroides ovatus,-0.0154,0.898,0.99
+Isobutyric acid,Bacteroides ovatus,-0.172,0.152,0.845
+Isovaleric acid,Bacteroides ovatus,-0.15,0.213,0.85
+Propionic acid ,Bacteroides ovatus,-0.131,0.275,0.863
+Acetic acid,Bacteroides pectinophilus,0.00596,0.961,0.996
+Butyric acid,Bacteroides pectinophilus,0.105,0.383,0.883
+Isobutyric acid,Bacteroides pectinophilus,-0.0852,0.48,0.908
+Isovaleric acid,Bacteroides pectinophilus,-0.074,0.54,0.92
+Propionic acid ,Bacteroides pectinophilus,0.14,0.243,0.856
+Acetic acid,Bacteroides plebeius,0.168,0.162,0.845
+Butyric acid,Bacteroides plebeius,-0.0328,0.786,0.971
+Isobutyric acid,Bacteroides plebeius,0.134,0.265,0.859
+Isovaleric acid,Bacteroides plebeius,0.229,0.0544,0.845
+Propionic acid ,Bacteroides plebeius,0.163,0.173,0.845
+Acetic acid,Bacteroides salyersiae,0.0552,0.648,0.945
+Butyric acid,Bacteroides salyersiae,-0.179,0.136,0.845
+Isobutyric acid,Bacteroides salyersiae,-0.119,0.322,0.874
+Isovaleric acid,Bacteroides salyersiae,0.0323,0.789,0.972
+Propionic acid ,Bacteroides salyersiae,-0.109,0.365,0.878
+Acetic acid,Bacteroides sp 3 2 5,-0.111,0.358,0.877
+Butyric acid,Bacteroides sp 3 2 5,-0.07,0.562,0.925
+Isobutyric acid,Bacteroides sp 3 2 5,-0.163,0.174,0.845
+Isovaleric acid,Bacteroides sp 3 2 5,-0.0408,0.735,0.964
+Propionic acid ,Bacteroides sp 3 2 5,-0.14,0.244,0.856
+Acetic acid,Bacteroides sp 4 3 47FAA,-0.0804,0.505,0.908
+Butyric acid,Bacteroides sp 4 3 47FAA,0.249,0.0364,0.845
+Isobutyric acid,Bacteroides sp 4 3 47FAA,-0.0199,0.869,0.985
+Isovaleric acid,Bacteroides sp 4 3 47FAA,-0.00702,0.954,0.996
+Propionic acid ,Bacteroides sp 4 3 47FAA,-0.0844,0.484,0.908
+Acetic acid,Bacteroides stercoris,-0.117,0.333,0.874
+Butyric acid,Bacteroides stercoris,-0.185,0.122,0.845
+Isobutyric acid,Bacteroides stercoris,-0.134,0.265,0.859
+Isovaleric acid,Bacteroides stercoris,-0.023,0.849,0.981
+Propionic acid ,Bacteroides stercoris,-0.218,0.0674,0.845
+Acetic acid,Bacteroides thetaiotaomicron,0.00766,0.949,0.996
+Butyric acid,Bacteroides thetaiotaomicron,-0.0638,0.597,0.934
+Isobutyric acid,Bacteroides thetaiotaomicron,-0.0996,0.409,0.891
+Isovaleric acid,Bacteroides thetaiotaomicron,-0.109,0.365,0.878
+Propionic acid ,Bacteroides thetaiotaomicron,-0.0349,0.773,0.968
+Acetic acid,Bacteroides uniformis,0.162,0.177,0.845
+Butyric acid,Bacteroides uniformis,-0.0609,0.614,0.94
+Isobutyric acid,Bacteroides uniformis,0.0407,0.736,0.964
+Isovaleric acid,Bacteroides uniformis,0.221,0.0635,0.845
+Propionic acid ,Bacteroides uniformis,-0.00312,0.979,0.999
+Acetic acid,Bacteroides vulgatus,-0.116,0.334,0.874
+Butyric acid,Bacteroides vulgatus,-0.239,0.0443,0.845
+Isobutyric acid,Bacteroides vulgatus,-0.166,0.165,0.845
+Isovaleric acid,Bacteroides vulgatus,-0.205,0.0865,0.845
+Propionic acid ,Bacteroides vulgatus,-0.166,0.166,0.845
+Acetic acid,Bacteroides xylanisolvens,0.0501,0.678,0.953
+Butyric acid,Bacteroides xylanisolvens,-0.0847,0.482,0.908
+Isobutyric acid,Bacteroides xylanisolvens,0.122,0.31,0.87
+Isovaleric acid,Bacteroides xylanisolvens,0.136,0.258,0.859
+Propionic acid ,Bacteroides xylanisolvens,-0.0758,0.53,0.915
+Acetic acid,Barnesiella intestinihominis,0.234,0.05,0.845
+Butyric acid,Barnesiella intestinihominis,-0.139,0.246,0.858
+Isobutyric acid,Barnesiella intestinihominis,0.107,0.375,0.883
+Isovaleric acid,Barnesiella intestinihominis,0.189,0.113,0.845
+Propionic acid ,Barnesiella intestinihominis,0.0504,0.676,0.953
+Acetic acid,Bifidobacterium adolescentis,-0.136,0.258,0.859
+Butyric acid,Bifidobacterium adolescentis,-0.0404,0.738,0.964
+Isobutyric acid,Bifidobacterium adolescentis,0.0686,0.57,0.927
+Isovaleric acid,Bifidobacterium adolescentis,0.0133,0.912,0.992
+Propionic acid ,Bifidobacterium adolescentis,-0.138,0.251,0.859
+Acetic acid,Bifidobacterium animalis,-0.145,0.227,0.851
+Butyric acid,Bifidobacterium animalis,-0.0107,0.93,0.993
+Isobutyric acid,Bifidobacterium animalis,-0.114,0.346,0.877
+Isovaleric acid,Bifidobacterium animalis,-0.192,0.109,0.845
+Propionic acid ,Bifidobacterium animalis,0.0725,0.548,0.923
+Acetic acid,Bifidobacterium bifidum,0.133,0.267,0.86
+Butyric acid,Bifidobacterium bifidum,-0.0183,0.88,0.986
+Isobutyric acid,Bifidobacterium bifidum,0.167,0.164,0.845
+Isovaleric acid,Bifidobacterium bifidum,0.22,0.065,0.845
+Propionic acid ,Bifidobacterium bifidum,0.144,0.232,0.852
+Acetic acid,Bifidobacterium breve,0.102,0.398,0.888
+Butyric acid,Bifidobacterium breve,-0.158,0.189,0.845
+Isobutyric acid,Bifidobacterium breve,0.167,0.164,0.845
+Isovaleric acid,Bifidobacterium breve,0.137,0.256,0.859
+Propionic acid ,Bifidobacterium breve,0.0686,0.57,0.927
+Acetic acid,Bifidobacterium catenulatum,NA,NA,NA
+Butyric acid,Bifidobacterium catenulatum,NA,NA,NA
+Isobutyric acid,Bifidobacterium catenulatum,NA,NA,NA
+Isovaleric acid,Bifidobacterium catenulatum,NA,NA,NA
+Propionic acid ,Bifidobacterium catenulatum,NA,NA,NA
+Acetic acid,Bifidobacterium dentium,0.195,0.104,0.845
+Butyric acid,Bifidobacterium dentium,-0.258,0.0299,0.845
+Isobutyric acid,Bifidobacterium dentium,0.191,0.111,0.845
+Isovaleric acid,Bifidobacterium dentium,0.17,0.156,0.845
+Propionic acid ,Bifidobacterium dentium,0.146,0.226,0.85
+Acetic acid,Bifidobacterium longum,-0.0525,0.664,0.947
+Butyric acid,Bifidobacterium longum,-0.00931,0.939,0.994
+Isobutyric acid,Bifidobacterium longum,-0.0614,0.611,0.94
+Isovaleric acid,Bifidobacterium longum,0.0636,0.598,0.934
+Propionic acid ,Bifidobacterium longum,-0.06,0.619,0.941
+Acetic acid,Bifidobacterium pseudocatenulatum,0.0714,0.554,0.925
+Butyric acid,Bifidobacterium pseudocatenulatum,0.0284,0.814,0.975
+Isobutyric acid,Bifidobacterium pseudocatenulatum,0.0663,0.583,0.932
+Isovaleric acid,Bifidobacterium pseudocatenulatum,0.109,0.365,0.878
+Propionic acid ,Bifidobacterium pseudocatenulatum,0.0727,0.547,0.922
+Acetic acid,Bilophila unclassified,0.12,0.32,0.874
+Butyric acid,Bilophila unclassified,-0.0485,0.688,0.956
+Isobutyric acid,Bilophila unclassified,0.107,0.372,0.883
+Isovaleric acid,Bilophila unclassified,0.122,0.31,0.87
+Propionic acid ,Bilophila unclassified,0.0744,0.538,0.919
+Acetic acid,Bilophila wadsworthia,0.0483,0.689,0.956
+Butyric acid,Bilophila wadsworthia,0.0184,0.879,0.986
+Isobutyric acid,Bilophila wadsworthia,0.1,0.406,0.891
+Isovaleric acid,Bilophila wadsworthia,0.122,0.311,0.87
+Propionic acid ,Bilophila wadsworthia,0.126,0.295,0.866
+Acetic acid,Blautia hydrogenotrophica,-0.169,0.159,0.845
+Butyric acid,Blautia hydrogenotrophica,-0.0793,0.511,0.911
+Isobutyric acid,Blautia hydrogenotrophica,-0.11,0.361,0.877
+Isovaleric acid,Blautia hydrogenotrophica,-0.17,0.156,0.845
+Propionic acid ,Blautia hydrogenotrophica,-0.255,0.0319,0.845
+Acetic acid,Blautia producta,0.195,0.103,0.845
+Butyric acid,Blautia producta,0.25,0.0357,0.845
+Isobutyric acid,Blautia producta,0.16,0.181,0.845
+Isovaleric acid,Blautia producta,0.0214,0.859,0.983
+Propionic acid ,Blautia producta,0.249,0.0365,0.845
+Acetic acid,Burkholderiales bacterium 1 1 47,0.255,0.0322,0.845
+Butyric acid,Burkholderiales bacterium 1 1 47,0.0209,0.862,0.983
+Isobutyric acid,Burkholderiales bacterium 1 1 47,0.167,0.164,0.845
+Isovaleric acid,Burkholderiales bacterium 1 1 47,0.27,0.0229,0.845
+Propionic acid ,Burkholderiales bacterium 1 1 47,0.0413,0.732,0.964
+Acetic acid,Butyrivibrio crossotus,0.0512,0.671,0.951
+Butyric acid,Butyrivibrio crossotus,-0.00632,0.958,0.996
+Isobutyric acid,Butyrivibrio crossotus,0.115,0.34,0.877
+Isovaleric acid,Butyrivibrio crossotus,0.0941,0.435,0.894
+Propionic acid ,Butyrivibrio crossotus,0.0187,0.877,0.986
+Acetic acid,C2likevirus unclassified,0.231,0.053,0.845
+Butyric acid,C2likevirus unclassified,-0.0108,0.929,0.992
+Isobutyric acid,C2likevirus unclassified,0.27,0.0227,0.845
+Isovaleric acid,C2likevirus unclassified,0.317,0.00713,0.845
+Propionic acid ,C2likevirus unclassified,0.238,0.0454,0.845
+Acetic acid,Catenibacterium mitsuokai,-0.103,0.393,0.886
+Butyric acid,Catenibacterium mitsuokai,0.155,0.198,0.845
+Isobutyric acid,Catenibacterium mitsuokai,-0.025,0.836,0.98
+Isovaleric acid,Catenibacterium mitsuokai,0.0428,0.723,0.964
+Propionic acid ,Catenibacterium mitsuokai,0.149,0.215,0.85
+Acetic acid,Citrobacter freundii,NA,NA,NA
+Butyric acid,Citrobacter freundii,NA,NA,NA
+Isobutyric acid,Citrobacter freundii,NA,NA,NA
+Isovaleric acid,Citrobacter freundii,NA,NA,NA
+Propionic acid ,Citrobacter freundii,NA,NA,NA
+Acetic acid,Citrobacter unclassified,NA,NA,NA
+Butyric acid,Citrobacter unclassified,NA,NA,NA
+Isobutyric acid,Citrobacter unclassified,NA,NA,NA
+Isovaleric acid,Citrobacter unclassified,NA,NA,NA
+Propionic acid ,Citrobacter unclassified,NA,NA,NA
+Acetic acid,Clostridiaceae bacterium JC118,-0.0276,0.819,0.977
+Butyric acid,Clostridiaceae bacterium JC118,-0.0622,0.606,0.939
+Isobutyric acid,Clostridiaceae bacterium JC118,-0.149,0.215,0.85
+Isovaleric acid,Clostridiaceae bacterium JC118,0.0192,0.874,0.986
+Propionic acid ,Clostridiaceae bacterium JC118,-0.141,0.242,0.856
+Acetic acid,Clostridiales bacterium 1 7 47FAA,0.195,0.103,0.845
+Butyric acid,Clostridiales bacterium 1 7 47FAA,0.25,0.0357,0.845
+Isobutyric acid,Clostridiales bacterium 1 7 47FAA,0.16,0.181,0.845
+Isovaleric acid,Clostridiales bacterium 1 7 47FAA,0.0214,0.859,0.983
+Propionic acid ,Clostridiales bacterium 1 7 47FAA,0.249,0.0365,0.845
+Acetic acid,Clostridium asparagiforme,0.093,0.441,0.895
+Butyric acid,Clostridium asparagiforme,0.213,0.0748,0.845
+Isobutyric acid,Clostridium asparagiforme,-0.0342,0.777,0.97
+Isovaleric acid,Clostridium asparagiforme,0.0653,0.589,0.932
+Propionic acid ,Clostridium asparagiforme,0.151,0.208,0.847
+Acetic acid,Clostridium bartlettii,0.0909,0.451,0.902
+Butyric acid,Clostridium bartlettii,0.0503,0.677,0.953
+Isobutyric acid,Clostridium bartlettii,0.137,0.254,0.859
+Isovaleric acid,Clostridium bartlettii,0.112,0.351,0.877
+Propionic acid ,Clostridium bartlettii,0.162,0.176,0.845
+Acetic acid,Clostridium bolteae,0.0556,0.645,0.944
+Butyric acid,Clostridium bolteae,0.125,0.298,0.866
+Isobutyric acid,Clostridium bolteae,-0.0797,0.509,0.91
+Isovaleric acid,Clostridium bolteae,0.0413,0.732,0.964
+Propionic acid ,Clostridium bolteae,0.107,0.375,0.883
+Acetic acid,Clostridium citroniae,0.272,0.0216,0.845
+Butyric acid,Clostridium citroniae,0.195,0.103,0.845
+Isobutyric acid,Clostridium citroniae,0.25,0.0355,0.845
+Isovaleric acid,Clostridium citroniae,0.121,0.316,0.873
+Propionic acid ,Clostridium citroniae,0.314,0.00774,0.845
+Acetic acid,Clostridium clostridioforme,0.25,0.0356,0.845
+Butyric acid,Clostridium clostridioforme,0.261,0.028,0.845
+Isobutyric acid,Clostridium clostridioforme,0.204,0.0887,0.845
+Isovaleric acid,Clostridium clostridioforme,0.11,0.36,0.877
+Propionic acid ,Clostridium clostridioforme,0.313,0.00788,0.845
+Acetic acid,Clostridium hathewayi,0.122,0.313,0.871
+Butyric acid,Clostridium hathewayi,-0.00219,0.986,1
+Isobutyric acid,Clostridium hathewayi,0.0756,0.531,0.916
+Isovaleric acid,Clostridium hathewayi,0.133,0.268,0.861
+Propionic acid ,Clostridium hathewayi,0.107,0.376,0.883
+Acetic acid,Clostridium leptum,-0.0637,0.598,0.934
+Butyric acid,Clostridium leptum,0.0159,0.896,0.989
+Isobutyric acid,Clostridium leptum,-0.107,0.376,0.883
+Isovaleric acid,Clostridium leptum,0.178,0.137,0.845
+Propionic acid ,Clostridium leptum,-0.148,0.219,0.85
+Acetic acid,Clostridium nexile,-0.209,0.0797,0.845
+Butyric acid,Clostridium nexile,0.172,0.15,0.845
+Isobutyric acid,Clostridium nexile,-0.226,0.0583,0.845
+Isovaleric acid,Clostridium nexile,-0.242,0.0419,0.845
+Propionic acid ,Clostridium nexile,0.0855,0.478,0.908
+Acetic acid,Clostridium ramosum,0.195,0.103,0.845
+Butyric acid,Clostridium ramosum,0.25,0.0357,0.845
+Isobutyric acid,Clostridium ramosum,0.16,0.181,0.845
+Isovaleric acid,Clostridium ramosum,0.0214,0.859,0.983
+Propionic acid ,Clostridium ramosum,0.249,0.0365,0.845
+Acetic acid,Clostridium symbiosum,0.119,0.325,0.874
+Butyric acid,Clostridium symbiosum,0.287,0.0151,0.845
+Isobutyric acid,Clostridium symbiosum,0.149,0.215,0.85
+Isovaleric acid,Clostridium symbiosum,0.0956,0.428,0.894
+Propionic acid ,Clostridium symbiosum,0.303,0.0101,0.845
+Acetic acid,Collinsella aerofaciens,-0.102,0.398,0.888
+Butyric acid,Collinsella aerofaciens,0.145,0.227,0.851
+Isobutyric acid,Collinsella aerofaciens,-0.076,0.529,0.915
+Isovaleric acid,Collinsella aerofaciens,-0.0814,0.5,0.908
+Propionic acid ,Collinsella aerofaciens,-0.0793,0.511,0.911
+Acetic acid,Collinsella intestinalis,-0.326,0.00551,0.845
+Butyric acid,Collinsella intestinalis,-0.0502,0.678,0.953
+Isobutyric acid,Collinsella intestinalis,-0.151,0.207,0.845
+Isovaleric acid,Collinsella intestinalis,-0.122,0.311,0.87
+Propionic acid ,Collinsella intestinalis,-0.11,0.361,0.877
+Acetic acid,Collinsella stercoris,0.152,0.206,0.845
+Butyric acid,Collinsella stercoris,0.11,0.361,0.877
+Isobutyric acid,Collinsella stercoris,0.122,0.31,0.87
+Isovaleric acid,Collinsella stercoris,0.135,0.26,0.859
+Propionic acid ,Collinsella stercoris,0.186,0.121,0.845
+Acetic acid,Collinsella tanakaei,0.0712,0.555,0.925
+Butyric acid,Collinsella tanakaei,0.0513,0.671,0.951
+Isobutyric acid,Collinsella tanakaei,0.139,0.248,0.859
+Isovaleric acid,Collinsella tanakaei,0.0567,0.639,0.944
+Propionic acid ,Collinsella tanakaei,0.0398,0.742,0.966
+Acetic acid,Collinsella unclassified,-0.197,0.0998,0.845
+Butyric acid,Collinsella unclassified,-0.0112,0.926,0.992
+Isobutyric acid,Collinsella unclassified,-0.285,0.0159,0.845
+Isovaleric acid,Collinsella unclassified,-0.0733,0.544,0.921
+Propionic acid ,Collinsella unclassified,-0.122,0.31,0.87
+Acetic acid,Coprobacillus unclassified,0.28,0.0182,0.845
+Butyric acid,Coprobacillus unclassified,0.00352,0.977,0.999
+Isobutyric acid,Coprobacillus unclassified,0.254,0.0329,0.845
+Isovaleric acid,Coprobacillus unclassified,0.14,0.246,0.858
+Propionic acid ,Coprobacillus unclassified,0.286,0.0158,0.845
+Acetic acid,Coprobacter fastidiosus,-0.0604,0.617,0.941
+Butyric acid,Coprobacter fastidiosus,-0.0284,0.814,0.975
+Isobutyric acid,Coprobacter fastidiosus,-0.0654,0.588,0.932
+Isovaleric acid,Coprobacter fastidiosus,-0.00895,0.941,0.994
+Propionic acid ,Coprobacter fastidiosus,-0.185,0.122,0.845
+Acetic acid,Coprococcus catus,-0.00549,0.964,0.996
+Butyric acid,Coprococcus catus,0.0268,0.825,0.979
+Isobutyric acid,Coprococcus catus,0.0678,0.574,0.928
+Isovaleric acid,Coprococcus catus,-0.0123,0.919,0.992
+Propionic acid ,Coprococcus catus,-0.07,0.562,0.925
+Acetic acid,Coprococcus comes,-0.0285,0.813,0.975
+Butyric acid,Coprococcus comes,0.0896,0.457,0.904
+Isobutyric acid,Coprococcus comes,0.0742,0.539,0.919
+Isovaleric acid,Coprococcus comes,0.123,0.308,0.87
+Propionic acid ,Coprococcus comes,0.0204,0.866,0.984
+Acetic acid,Coprococcus eutactus,-0.0943,0.434,0.894
+Butyric acid,Coprococcus eutactus,-0.239,0.0452,0.845
+Isobutyric acid,Coprococcus eutactus,-0.195,0.103,0.845
+Isovaleric acid,Coprococcus eutactus,-0.0381,0.752,0.966
+Propionic acid ,Coprococcus eutactus,-0.161,0.18,0.845
+Acetic acid,Coprococcus sp ART55 1,0.0945,0.433,0.894
+Butyric acid,Coprococcus sp ART55 1,-0.00356,0.976,0.998
+Isobutyric acid,Coprococcus sp ART55 1,0.189,0.114,0.845
+Isovaleric acid,Coprococcus sp ART55 1,0.168,0.16,0.845
+Propionic acid ,Coprococcus sp ART55 1,0.0888,0.461,0.904
+Acetic acid,Desulfovibrio desulfuricans,-0.0864,0.474,0.908
+Butyric acid,Desulfovibrio desulfuricans,-0.0362,0.765,0.968
+Isobutyric acid,Desulfovibrio desulfuricans,-0.0539,0.655,0.947
+Isovaleric acid,Desulfovibrio desulfuricans,-0.169,0.159,0.845
+Propionic acid ,Desulfovibrio desulfuricans,0.0604,0.617,0.941
+Acetic acid,Desulfovibrio piger,0.0973,0.42,0.894
+Butyric acid,Desulfovibrio piger,-0.0395,0.744,0.966
+Isobutyric acid,Desulfovibrio piger,0.219,0.0669,0.845
+Isovaleric acid,Desulfovibrio piger,0.162,0.177,0.845
+Propionic acid ,Desulfovibrio piger,0.121,0.315,0.873
+Acetic acid,Dialister invisus,0.171,0.155,0.845
+Butyric acid,Dialister invisus,0.046,0.703,0.957
+Isobutyric acid,Dialister invisus,0.0705,0.559,0.925
+Isovaleric acid,Dialister invisus,0.168,0.161,0.845
+Propionic acid ,Dialister invisus,0.0865,0.473,0.907
+Acetic acid,Dorea formicigenerans,0.0931,0.44,0.895
+Butyric acid,Dorea formicigenerans,0.0663,0.583,0.932
+Isobutyric acid,Dorea formicigenerans,0.127,0.291,0.866
+Isovaleric acid,Dorea formicigenerans,0.184,0.124,0.845
+Propionic acid ,Dorea formicigenerans,0.112,0.353,0.877
+Acetic acid,Dorea longicatena,0.11,0.363,0.878
+Butyric acid,Dorea longicatena,-0.00139,0.991,1
+Isobutyric acid,Dorea longicatena,0.214,0.0733,0.845
+Isovaleric acid,Dorea longicatena,0.194,0.106,0.845
+Propionic acid ,Dorea longicatena,0.0699,0.563,0.925
+Acetic acid,Dorea unclassified,-0.119,0.324,0.874
+Butyric acid,Dorea unclassified,-0.0589,0.625,0.941
+Isobutyric acid,Dorea unclassified,-0.121,0.316,0.873
+Isovaleric acid,Dorea unclassified,-0.198,0.0971,0.845
+Propionic acid ,Dorea unclassified,-0.149,0.215,0.85
+Acetic acid,Dysgonomonas mossii,-0.0233,0.847,0.98
+Butyric acid,Dysgonomonas mossii,0.128,0.286,0.863
+Isobutyric acid,Dysgonomonas mossii,-0.117,0.333,0.874
+Isovaleric acid,Dysgonomonas mossii,-0.0525,0.664,0.947
+Propionic acid ,Dysgonomonas mossii,-0.117,0.333,0.874
+Acetic acid,Dysgonomonas unclassified,0.128,0.287,0.864
+Butyric acid,Dysgonomonas unclassified,0.229,0.0549,0.845
+Isobutyric acid,Dysgonomonas unclassified,0.076,0.529,0.915
+Isovaleric acid,Dysgonomonas unclassified,0.0153,0.899,0.99
+Propionic acid ,Dysgonomonas unclassified,0.0759,0.529,0.915
+Acetic acid,Eggerthella lenta,0.119,0.322,0.874
+Butyric acid,Eggerthella lenta,0.253,0.0331,0.845
+Isobutyric acid,Eggerthella lenta,0.0486,0.688,0.956
+Isovaleric acid,Eggerthella lenta,0.0698,0.563,0.925
+Propionic acid ,Eggerthella lenta,0.0998,0.408,0.891
+Acetic acid,Eggerthella unclassified,0.0554,0.646,0.944
+Butyric acid,Eggerthella unclassified,0.18,0.134,0.845
+Isobutyric acid,Eggerthella unclassified,0.0117,0.923,0.992
+Isovaleric acid,Eggerthella unclassified,0.029,0.81,0.974
+Propionic acid ,Eggerthella unclassified,0.105,0.385,0.883
+Acetic acid,Enterococcus faecalis,NA,NA,NA
+Butyric acid,Enterococcus faecalis,NA,NA,NA
+Isobutyric acid,Enterococcus faecalis,NA,NA,NA
+Isovaleric acid,Enterococcus faecalis,NA,NA,NA
+Propionic acid ,Enterococcus faecalis,NA,NA,NA
+Acetic acid,Epsilon15likevirus unclassified,NA,NA,NA
+Butyric acid,Epsilon15likevirus unclassified,NA,NA,NA
+Isobutyric acid,Epsilon15likevirus unclassified,NA,NA,NA
+Isovaleric acid,Epsilon15likevirus unclassified,NA,NA,NA
+Propionic acid ,Epsilon15likevirus unclassified,NA,NA,NA
+Acetic acid,Erysipelotrichaceae bacterium 2 2 44A,0.195,0.103,0.845
+Butyric acid,Erysipelotrichaceae bacterium 2 2 44A,0.25,0.0357,0.845
+Isobutyric acid,Erysipelotrichaceae bacterium 2 2 44A,0.16,0.181,0.845
+Isovaleric acid,Erysipelotrichaceae bacterium 2 2 44A,0.0214,0.859,0.983
+Propionic acid ,Erysipelotrichaceae bacterium 2 2 44A,0.249,0.0365,0.845
+Acetic acid,Erysipelotrichaceae bacterium 21 3,0.167,0.164,0.845
+Butyric acid,Erysipelotrichaceae bacterium 21 3,0.133,0.268,0.861
+Isobutyric acid,Erysipelotrichaceae bacterium 21 3,-0.00501,0.967,0.997
+Isovaleric acid,Erysipelotrichaceae bacterium 21 3,0.0394,0.744,0.966
+Propionic acid ,Erysipelotrichaceae bacterium 21 3,0.114,0.346,0.877
+Acetic acid,Erysipelotrichaceae bacterium 5 2 54FAA,0.195,0.103,0.845
+Butyric acid,Erysipelotrichaceae bacterium 5 2 54FAA,0.25,0.0357,0.845
+Isobutyric acid,Erysipelotrichaceae bacterium 5 2 54FAA,0.16,0.181,0.845
+Isovaleric acid,Erysipelotrichaceae bacterium 5 2 54FAA,0.0214,0.859,0.983
+Propionic acid ,Erysipelotrichaceae bacterium 5 2 54FAA,0.249,0.0365,0.845
+Acetic acid,Erysipelotrichaceae bacterium 6 1 45,0.11,0.363,0.878
+Butyric acid,Erysipelotrichaceae bacterium 6 1 45,0.181,0.131,0.845
+Isobutyric acid,Erysipelotrichaceae bacterium 6 1 45,0.0584,0.629,0.941
+Isovaleric acid,Erysipelotrichaceae bacterium 6 1 45,0.0768,0.525,0.915
+Propionic acid ,Erysipelotrichaceae bacterium 6 1 45,0.135,0.261,0.859
+Acetic acid,Escherichia coli,0.00527,0.965,0.996
+Butyric acid,Escherichia coli,-0.0679,0.574,0.928
+Isobutyric acid,Escherichia coli,-0.108,0.37,0.881
+Isovaleric acid,Escherichia coli,-0.125,0.298,0.866
+Propionic acid ,Escherichia coli,-0.0811,0.501,0.908
+Acetic acid,Escherichia unclassified,-0.0809,0.502,0.908
+Butyric acid,Escherichia unclassified,0.0746,0.537,0.919
+Isobutyric acid,Escherichia unclassified,-0.059,0.625,0.941
+Isovaleric acid,Escherichia unclassified,-0.125,0.299,0.868
+Propionic acid ,Escherichia unclassified,-0.0325,0.788,0.972
+Acetic acid,Eubacterium biforme,-0.0423,0.726,0.964
+Butyric acid,Eubacterium biforme,-0.031,0.797,0.974
+Isobutyric acid,Eubacterium biforme,0.118,0.326,0.874
+Isovaleric acid,Eubacterium biforme,0.0187,0.877,0.986
+Propionic acid ,Eubacterium biforme,0.0854,0.479,0.908
+Acetic acid,Eubacterium cylindroides,-0.0916,0.447,0.898
+Butyric acid,Eubacterium cylindroides,0.227,0.0566,0.845
+Isobutyric acid,Eubacterium cylindroides,-0.0563,0.641,0.944
+Isovaleric acid,Eubacterium cylindroides,-0.0287,0.812,0.975
+Propionic acid ,Eubacterium cylindroides,0.0219,0.856,0.982
+Acetic acid,Eubacterium eligens,0.0506,0.675,0.952
+Butyric acid,Eubacterium eligens,0.146,0.226,0.85
+Isobutyric acid,Eubacterium eligens,0.0613,0.612,0.94
+Isovaleric acid,Eubacterium eligens,0.087,0.47,0.905
+Propionic acid ,Eubacterium eligens,-0.145,0.227,0.851
+Acetic acid,Eubacterium hallii,-0.108,0.372,0.883
+Butyric acid,Eubacterium hallii,0.0148,0.902,0.99
+Isobutyric acid,Eubacterium hallii,-0.0665,0.582,0.932
+Isovaleric acid,Eubacterium hallii,0.0246,0.839,0.98
+Propionic acid ,Eubacterium hallii,-0.178,0.136,0.845
+Acetic acid,Eubacterium limosum,-0.245,0.0397,0.845
+Butyric acid,Eubacterium limosum,-0.019,0.875,0.986
+Isobutyric acid,Eubacterium limosum,-0.174,0.148,0.845
+Isovaleric acid,Eubacterium limosum,-0.0736,0.542,0.921
+Propionic acid ,Eubacterium limosum,-0.0329,0.785,0.971
+Acetic acid,Eubacterium ramulus,-0.00284,0.981,0.999
+Butyric acid,Eubacterium ramulus,-0.119,0.322,0.874
+Isobutyric acid,Eubacterium ramulus,0.135,0.26,0.859
+Isovaleric acid,Eubacterium ramulus,0.0292,0.809,0.974
+Propionic acid ,Eubacterium ramulus,0.0154,0.898,0.99
+Acetic acid,Eubacterium rectale,0.111,0.355,0.877
+Butyric acid,Eubacterium rectale,-0.101,0.404,0.891
+Isobutyric acid,Eubacterium rectale,0.07,0.562,0.925
+Isovaleric acid,Eubacterium rectale,0.206,0.085,0.845
+Propionic acid ,Eubacterium rectale,-0.0278,0.818,0.976
+Acetic acid,Eubacterium siraeum,0.073,0.545,0.921
+Butyric acid,Eubacterium siraeum,0.106,0.377,0.883
+Isobutyric acid,Eubacterium siraeum,0.00979,0.935,0.994
+Isovaleric acid,Eubacterium siraeum,0.119,0.323,0.874
+Propionic acid ,Eubacterium siraeum,0.0549,0.649,0.945
+Acetic acid,Eubacterium sp 3 1 31,0.158,0.187,0.845
+Butyric acid,Eubacterium sp 3 1 31,0.183,0.127,0.845
+Isobutyric acid,Eubacterium sp 3 1 31,0.0667,0.58,0.931
+Isovaleric acid,Eubacterium sp 3 1 31,0.0442,0.714,0.961
+Propionic acid ,Eubacterium sp 3 1 31,0.0933,0.439,0.894
+Acetic acid,Eubacterium ventriosum,0.0199,0.869,0.985
+Butyric acid,Eubacterium ventriosum,0.0583,0.629,0.941
+Isobutyric acid,Eubacterium ventriosum,0.0838,0.487,0.908
+Isovaleric acid,Eubacterium ventriosum,0.18,0.133,0.845
+Propionic acid ,Eubacterium ventriosum,0.0185,0.878,0.986
+Acetic acid,Faecalibacterium prausnitzii,0.0696,0.564,0.925
+Butyric acid,Faecalibacterium prausnitzii,0.232,0.0511,0.845
+Isobutyric acid,Faecalibacterium prausnitzii,-0.0404,0.738,0.964
+Isovaleric acid,Faecalibacterium prausnitzii,0.0934,0.439,0.894
+Propionic acid ,Faecalibacterium prausnitzii,0.0608,0.615,0.94
+Acetic acid,Flavonifractor plautii,0.107,0.376,0.883
+Butyric acid,Flavonifractor plautii,-0.0295,0.807,0.974
+Isobutyric acid,Flavonifractor plautii,0.127,0.29,0.866
+Isovaleric acid,Flavonifractor plautii,0.128,0.288,0.866
+Propionic acid ,Flavonifractor plautii,0.131,0.278,0.863
+Acetic acid,Fusobacterium mortiferum,-0.119,0.323,0.874
+Butyric acid,Fusobacterium mortiferum,-0.00538,0.964,0.996
+Isobutyric acid,Fusobacterium mortiferum,-0.241,0.0433,0.845
+Isovaleric acid,Fusobacterium mortiferum,-0.0796,0.51,0.91
+Propionic acid ,Fusobacterium mortiferum,-0.183,0.127,0.845
+Acetic acid,Fusobacterium ulcerans,0.0723,0.549,0.923
+Butyric acid,Fusobacterium ulcerans,0.17,0.157,0.845
+Isobutyric acid,Fusobacterium ulcerans,0.0259,0.831,0.98
+Isovaleric acid,Fusobacterium ulcerans,0.0579,0.631,0.942
+Propionic acid ,Fusobacterium ulcerans,0.0529,0.661,0.947
+Acetic acid,Fusobacterium varium,0.195,0.103,0.845
+Butyric acid,Fusobacterium varium,0.249,0.0366,0.845
+Isobutyric acid,Fusobacterium varium,0.164,0.173,0.845
+Isovaleric acid,Fusobacterium varium,0.0284,0.814,0.975
+Propionic acid ,Fusobacterium varium,0.25,0.0358,0.845
+Acetic acid,Gordonibacter pamelaeae,-0.161,0.181,0.845
+Butyric acid,Gordonibacter pamelaeae,-0.0588,0.626,0.941
+Isobutyric acid,Gordonibacter pamelaeae,-0.183,0.126,0.845
+Isovaleric acid,Gordonibacter pamelaeae,-0.249,0.0363,0.845
+Propionic acid ,Gordonibacter pamelaeae,-0.241,0.0431,0.845
+Acetic acid,Haemophilus parainfluenzae,0.202,0.0909,0.845
+Butyric acid,Haemophilus parainfluenzae,-0.0146,0.904,0.991
+Isobutyric acid,Haemophilus parainfluenzae,0.0614,0.611,0.94
+Isovaleric acid,Haemophilus parainfluenzae,0.302,0.0104,0.845
+Propionic acid ,Haemophilus parainfluenzae,0.0912,0.449,0.899
+Acetic acid,Haemophilus phage HP1,0.0583,0.629,0.941
+Butyric acid,Haemophilus phage HP1,-0.0117,0.923,0.992
+Isobutyric acid,Haemophilus phage HP1,0.111,0.358,0.877
+Isovaleric acid,Haemophilus phage HP1,0.07,0.562,0.925
+Propionic acid ,Haemophilus phage HP1,0.14,0.244,0.856
+Acetic acid,Haemophilus pittmaniae,-0.0227,0.851,0.981
+Butyric acid,Haemophilus pittmaniae,0.0641,0.595,0.932
+Isobutyric acid,Haemophilus pittmaniae,-0.0606,0.616,0.94
+Isovaleric acid,Haemophilus pittmaniae,-0.000819,0.995,1
+Propionic acid ,Haemophilus pittmaniae,-0.154,0.199,0.845
+Acetic acid,Haemophilus sputorum,0.0583,0.629,0.941
+Butyric acid,Haemophilus sputorum,-0.0117,0.923,0.992
+Isobutyric acid,Haemophilus sputorum,0.111,0.358,0.877
+Isovaleric acid,Haemophilus sputorum,0.07,0.562,0.925
+Propionic acid ,Haemophilus sputorum,0.14,0.244,0.856
+Acetic acid,Holdemania filiformis,0.272,0.0218,0.845
+Butyric acid,Holdemania filiformis,-0.00229,0.985,1
+Isobutyric acid,Holdemania filiformis,0.247,0.0378,0.845
+Isovaleric acid,Holdemania filiformis,0.256,0.0309,0.845
+Propionic acid ,Holdemania filiformis,0.261,0.0277,0.845
+Acetic acid,Holdemania unclassified,0.0878,0.467,0.904
+Butyric acid,Holdemania unclassified,0.161,0.18,0.845
+Isobutyric acid,Holdemania unclassified,0.0786,0.515,0.914
+Isovaleric acid,Holdemania unclassified,0.127,0.29,0.866
+Propionic acid ,Holdemania unclassified,0.0942,0.435,0.894
+Acetic acid,Klebsiella oxytoca,-0.0117,0.923,0.992
+Butyric acid,Klebsiella oxytoca,-0.0758,0.53,0.915
+Isobutyric acid,Klebsiella oxytoca,0.00583,0.961,0.996
+Isovaleric acid,Klebsiella oxytoca,-0.0175,0.885,0.986
+Propionic acid ,Klebsiella oxytoca,0.122,0.309,0.87
+Acetic acid,Klebsiella pneumoniae,0.128,0.286,0.863
+Butyric acid,Klebsiella pneumoniae,0.0117,0.923,0.992
+Isobutyric acid,Klebsiella pneumoniae,-0.192,0.108,0.845
+Isovaleric acid,Klebsiella pneumoniae,0,1,1
+Propionic acid ,Klebsiella pneumoniae,-0.146,0.225,0.85
+Acetic acid,Klebsiella unclassified,NA,NA,NA
+Butyric acid,Klebsiella unclassified,NA,NA,NA
+Isobutyric acid,Klebsiella unclassified,NA,NA,NA
+Isovaleric acid,Klebsiella unclassified,NA,NA,NA
+Propionic acid ,Klebsiella unclassified,NA,NA,NA
+Acetic acid,Lachnospiraceae bacterium 1 1 57FAA,0.011,0.927,0.992
+Butyric acid,Lachnospiraceae bacterium 1 1 57FAA,-0.0178,0.883,0.986
+Isobutyric acid,Lachnospiraceae bacterium 1 1 57FAA,0.00127,0.992,1
+Isovaleric acid,Lachnospiraceae bacterium 1 1 57FAA,0.0152,0.9,0.99
+Propionic acid ,Lachnospiraceae bacterium 1 1 57FAA,-0.0265,0.826,0.979
+Acetic acid,Lachnospiraceae bacterium 1 4 56FAA,-0.245,0.0397,0.845
+Butyric acid,Lachnospiraceae bacterium 1 4 56FAA,-0.019,0.875,0.986
+Isobutyric acid,Lachnospiraceae bacterium 1 4 56FAA,-0.174,0.148,0.845
+Isovaleric acid,Lachnospiraceae bacterium 1 4 56FAA,-0.0736,0.542,0.921
+Propionic acid ,Lachnospiraceae bacterium 1 4 56FAA,-0.0329,0.785,0.971
+Acetic acid,Lachnospiraceae bacterium 2 1 58FAA,-0.0327,0.786,0.971
+Butyric acid,Lachnospiraceae bacterium 2 1 58FAA,0.127,0.293,0.866
+Isobutyric acid,Lachnospiraceae bacterium 2 1 58FAA,-0.0756,0.531,0.916
+Isovaleric acid,Lachnospiraceae bacterium 2 1 58FAA,0.0247,0.838,0.98
+Propionic acid ,Lachnospiraceae bacterium 2 1 58FAA,0.00327,0.978,0.999
+Acetic acid,Lachnospiraceae bacterium 3 1 46FAA,-0.0629,0.602,0.936
+Butyric acid,Lachnospiraceae bacterium 3 1 46FAA,-0.0296,0.806,0.974
+Isobutyric acid,Lachnospiraceae bacterium 3 1 46FAA,0.0491,0.685,0.955
+Isovaleric acid,Lachnospiraceae bacterium 3 1 46FAA,0.126,0.295,0.866
+Propionic acid ,Lachnospiraceae bacterium 3 1 46FAA,0.0234,0.846,0.98
+Acetic acid,Lachnospiraceae bacterium 3 1 57FAA CT1,0.165,0.17,0.845
+Butyric acid,Lachnospiraceae bacterium 3 1 57FAA CT1,0.102,0.399,0.888
+Isobutyric acid,Lachnospiraceae bacterium 3 1 57FAA CT1,0.18,0.133,0.845
+Isovaleric acid,Lachnospiraceae bacterium 3 1 57FAA CT1,0.193,0.106,0.845
+Propionic acid ,Lachnospiraceae bacterium 3 1 57FAA CT1,0.24,0.0436,0.845
+Acetic acid,Lachnospiraceae bacterium 5 1 57FAA,0.0566,0.639,0.944
+Butyric acid,Lachnospiraceae bacterium 5 1 57FAA,0.268,0.0238,0.845
+Isobutyric acid,Lachnospiraceae bacterium 5 1 57FAA,0.0989,0.412,0.892
+Isovaleric acid,Lachnospiraceae bacterium 5 1 57FAA,0.0743,0.538,0.919
+Propionic acid ,Lachnospiraceae bacterium 5 1 57FAA,0.184,0.124,0.845
+Acetic acid,Lachnospiraceae bacterium 5 1 63FAA,0.0535,0.658,0.947
+Butyric acid,Lachnospiraceae bacterium 5 1 63FAA,0.0951,0.43,0.894
+Isobutyric acid,Lachnospiraceae bacterium 5 1 63FAA,0.134,0.265,0.859
+Isovaleric acid,Lachnospiraceae bacterium 5 1 63FAA,0.0834,0.489,0.908
+Propionic acid ,Lachnospiraceae bacterium 5 1 63FAA,0.0783,0.517,0.915
+Acetic acid,Lachnospiraceae bacterium 6 1 63FAA,-0.0175,0.885,0.986
+Butyric acid,Lachnospiraceae bacterium 6 1 63FAA,0.14,0.244,0.856
+Isobutyric acid,Lachnospiraceae bacterium 6 1 63FAA,-0.152,0.207,0.845
+Isovaleric acid,Lachnospiraceae bacterium 6 1 63FAA,-0.0875,0.468,0.904
+Propionic acid ,Lachnospiraceae bacterium 6 1 63FAA,-0.134,0.265,0.859
+Acetic acid,Lachnospiraceae bacterium 7 1 58FAA,-0.0589,0.625,0.941
+Butyric acid,Lachnospiraceae bacterium 7 1 58FAA,0.0237,0.844,0.98
+Isobutyric acid,Lachnospiraceae bacterium 7 1 58FAA,-0.114,0.342,0.877
+Isovaleric acid,Lachnospiraceae bacterium 7 1 58FAA,-0.056,0.643,0.944
+Propionic acid ,Lachnospiraceae bacterium 7 1 58FAA,-0.112,0.353,0.877
+Acetic acid,Lachnospiraceae bacterium 8 1 57FAA,0.358,0.00214,0.845
+Butyric acid,Lachnospiraceae bacterium 8 1 57FAA,0.0305,0.8,0.974
+Isobutyric acid,Lachnospiraceae bacterium 8 1 57FAA,0.278,0.019,0.845
+Isovaleric acid,Lachnospiraceae bacterium 8 1 57FAA,0.294,0.0127,0.845
+Propionic acid ,Lachnospiraceae bacterium 8 1 57FAA,0.175,0.145,0.845
+Acetic acid,Lachnospiraceae bacterium 9 1 43BFAA,0.195,0.103,0.845
+Butyric acid,Lachnospiraceae bacterium 9 1 43BFAA,0.249,0.0366,0.845
+Isobutyric acid,Lachnospiraceae bacterium 9 1 43BFAA,0.164,0.173,0.845
+Isovaleric acid,Lachnospiraceae bacterium 9 1 43BFAA,0.0284,0.814,0.975
+Propionic acid ,Lachnospiraceae bacterium 9 1 43BFAA,0.25,0.0358,0.845
+Acetic acid,Lactobacillus casei paracasei,NA,NA,NA
+Butyric acid,Lactobacillus casei paracasei,NA,NA,NA
+Isobutyric acid,Lactobacillus casei paracasei,NA,NA,NA
+Isovaleric acid,Lactobacillus casei paracasei,NA,NA,NA
+Propionic acid ,Lactobacillus casei paracasei,NA,NA,NA
+Acetic acid,Lactobacillus curvatus,0.195,0.103,0.845
+Butyric acid,Lactobacillus curvatus,0.25,0.0357,0.845
+Isobutyric acid,Lactobacillus curvatus,0.16,0.181,0.845
+Isovaleric acid,Lactobacillus curvatus,0.0214,0.859,0.983
+Propionic acid ,Lactobacillus curvatus,0.249,0.0365,0.845
+Acetic acid,Lactobacillus sakei,0.0933,0.439,0.894
+Butyric acid,Lactobacillus sakei,0,1,1
+Isobutyric acid,Lactobacillus sakei,0.163,0.174,0.845
+Isovaleric acid,Lactobacillus sakei,0.157,0.19,0.845
+Propionic acid ,Lactobacillus sakei,0.128,0.286,0.863
+Acetic acid,Lactococcus lactis,0.0642,0.595,0.932
+Butyric acid,Lactococcus lactis,0.0262,0.828,0.98
+Isobutyric acid,Lactococcus lactis,0.128,0.286,0.863
+Isovaleric acid,Lactococcus lactis,0.134,0.265,0.859
+Propionic acid ,Lactococcus lactis,0.146,0.225,0.85
+Acetic acid,Marvinbryantia formatexigens,-0.0462,0.702,0.957
+Butyric acid,Marvinbryantia formatexigens,-0.015,0.901,0.99
+Isobutyric acid,Marvinbryantia formatexigens,-0.132,0.273,0.863
+Isovaleric acid,Marvinbryantia formatexigens,-0.207,0.0833,0.845
+Propionic acid ,Marvinbryantia formatexigens,0.05,0.679,0.954
+Acetic acid,Megamonas funiformis,-0.011,0.928,0.992
+Butyric acid,Megamonas funiformis,-0.0991,0.411,0.891
+Isobutyric acid,Megamonas funiformis,0.106,0.381,0.883
+Isovaleric acid,Megamonas funiformis,0.03,0.804,0.974
+Propionic acid ,Megamonas funiformis,0.0759,0.529,0.915
+Acetic acid,Megamonas hypermegale,0.0127,0.916,0.992
+Butyric acid,Megamonas hypermegale,-0.0248,0.838,0.98
+Isobutyric acid,Megamonas hypermegale,0.155,0.198,0.845
+Isovaleric acid,Megamonas hypermegale,0.0106,0.93,0.993
+Propionic acid ,Megamonas hypermegale,0.0835,0.489,0.908
+Acetic acid,Megamonas rupellensis,-0.033,0.785,0.971
+Butyric acid,Megamonas rupellensis,-0.0138,0.909,0.992
+Isobutyric acid,Megamonas rupellensis,0.0124,0.918,0.992
+Isovaleric acid,Megamonas rupellensis,-0.0782,0.517,0.915
+Propionic acid ,Megamonas rupellensis,-0.018,0.881,0.986
+Acetic acid,Megamonas unclassified,-0.155,0.197,0.845
+Butyric acid,Megamonas unclassified,-0.0944,0.433,0.894
+Isobutyric acid,Megamonas unclassified,0.0525,0.663,0.947
+Isovaleric acid,Megamonas unclassified,0.0036,0.976,0.998
+Propionic acid ,Megamonas unclassified,-0.0248,0.837,0.98
+Acetic acid,Methanobrevibacter smithii,0.0491,0.684,0.955
+Butyric acid,Methanobrevibacter smithii,-0.00445,0.971,0.997
+Isobutyric acid,Methanobrevibacter smithii,0.152,0.206,0.845
+Isovaleric acid,Methanobrevibacter smithii,-0.007,0.954,0.996
+Propionic acid ,Methanobrevibacter smithii,0.0874,0.469,0.905
+Acetic acid,Methanobrevibacter unclassified,0.0208,0.863,0.983
+Butyric acid,Methanobrevibacter unclassified,0.143,0.234,0.854
+Isobutyric acid,Methanobrevibacter unclassified,0.0836,0.488,0.908
+Isovaleric acid,Methanobrevibacter unclassified,-0.0648,0.592,0.932
+Propionic acid ,Methanobrevibacter unclassified,-0.0223,0.853,0.982
+Acetic acid,Mitsuokella multacida,0.0473,0.695,0.956
+Butyric acid,Mitsuokella multacida,-0.0827,0.493,0.908
+Isobutyric acid,Mitsuokella multacida,0.0328,0.786,0.971
+Isovaleric acid,Mitsuokella multacida,-0.136,0.259,0.859
+Propionic acid ,Mitsuokella multacida,-0.19,0.112,0.845
+Acetic acid,Mitsuokella unclassified,0.158,0.189,0.845
+Butyric acid,Mitsuokella unclassified,0.0137,0.909,0.992
+Isobutyric acid,Mitsuokella unclassified,0.135,0.26,0.859
+Isovaleric acid,Mitsuokella unclassified,0.00236,0.984,1
+Propionic acid ,Mitsuokella unclassified,-0.0456,0.706,0.957
+Acetic acid,Odoribacter laneus,-0.0104,0.931,0.993
+Butyric acid,Odoribacter laneus,-0.0284,0.814,0.975
+Isobutyric acid,Odoribacter laneus,0.152,0.207,0.845
+Isovaleric acid,Odoribacter laneus,0.0182,0.88,0.986
+Propionic acid ,Odoribacter laneus,0.115,0.34,0.877
+Acetic acid,Odoribacter splanchnicus,0.183,0.127,0.845
+Butyric acid,Odoribacter splanchnicus,-0.014,0.908,0.992
+Isobutyric acid,Odoribacter splanchnicus,0.167,0.163,0.845
+Isovaleric acid,Odoribacter splanchnicus,0.136,0.258,0.859
+Propionic acid ,Odoribacter splanchnicus,0.169,0.159,0.845
+Acetic acid,Odoribacter unclassified,-0.0349,0.772,0.968
+Butyric acid,Odoribacter unclassified,-0.0305,0.8,0.974
+Isobutyric acid,Odoribacter unclassified,0.0881,0.465,0.904
+Isovaleric acid,Odoribacter unclassified,-0.033,0.785,0.971
+Propionic acid ,Odoribacter unclassified,-0.15,0.213,0.85
+Acetic acid,Oscillibacter unclassified,0.086,0.476,0.908
+Butyric acid,Oscillibacter unclassified,-0.0875,0.468,0.904
+Isobutyric acid,Oscillibacter unclassified,0.00231,0.985,1
+Isovaleric acid,Oscillibacter unclassified,0.0725,0.548,0.923
+Propionic acid ,Oscillibacter unclassified,-0.0712,0.555,0.925
+Acetic acid,Oxalobacter formigenes,-0.0765,0.526,0.915
+Butyric acid,Oxalobacter formigenes,-0.107,0.374,0.883
+Isobutyric acid,Oxalobacter formigenes,-0.0223,0.854,0.982
+Isovaleric acid,Oxalobacter formigenes,-0.123,0.308,0.87
+Propionic acid ,Oxalobacter formigenes,-0.0885,0.463,0.904
+Acetic acid,Parabacteroides distasonis,-0.103,0.393,0.886
+Butyric acid,Parabacteroides distasonis,-0.231,0.0527,0.845
+Isobutyric acid,Parabacteroides distasonis,-0.133,0.27,0.862
+Isovaleric acid,Parabacteroides distasonis,-0.0614,0.611,0.94
+Propionic acid ,Parabacteroides distasonis,-0.215,0.0718,0.845
+Acetic acid,Parabacteroides goldsteinii,0.169,0.16,0.845
+Butyric acid,Parabacteroides goldsteinii,-0.0384,0.751,0.966
+Isobutyric acid,Parabacteroides goldsteinii,-0.0498,0.68,0.954
+Isovaleric acid,Parabacteroides goldsteinii,-0.0207,0.864,0.983
+Propionic acid ,Parabacteroides goldsteinii,-0.0907,0.452,0.903
+Acetic acid,Parabacteroides johnsonii,0.305,0.00961,0.845
+Butyric acid,Parabacteroides johnsonii,0.00824,0.946,0.996
+Isobutyric acid,Parabacteroides johnsonii,0.327,0.00545,0.845
+Isovaleric acid,Parabacteroides johnsonii,0.305,0.0096,0.845
+Propionic acid ,Parabacteroides johnsonii,0.242,0.0424,0.845
+Acetic acid,Parabacteroides merdae,0.0875,0.468,0.904
+Butyric acid,Parabacteroides merdae,-0.192,0.109,0.845
+Isobutyric acid,Parabacteroides merdae,0.129,0.282,0.863
+Isovaleric acid,Parabacteroides merdae,0.165,0.169,0.845
+Propionic acid ,Parabacteroides merdae,-0.101,0.403,0.891
+Acetic acid,Parabacteroides sp 20 3,-0.198,0.0974,0.845
+Butyric acid,Parabacteroides sp 20 3,0.00583,0.962,0.996
+Isobutyric acid,Parabacteroides sp 20 3,-0.0817,0.498,0.908
+Isovaleric acid,Parabacteroides sp 20 3,-0.0991,0.411,0.891
+Propionic acid ,Parabacteroides sp 20 3,-0.192,0.108,0.845
+Acetic acid,Parabacteroides unclassified,-0.0821,0.496,0.908
+Butyric acid,Parabacteroides unclassified,-0.00688,0.955,0.996
+Isobutyric acid,Parabacteroides unclassified,0.0358,0.767,0.968
+Isovaleric acid,Parabacteroides unclassified,0.12,0.321,0.874
+Propionic acid ,Parabacteroides unclassified,0.0492,0.684,0.955
+Acetic acid,Paraprevotella clara,0.0407,0.736,0.964
+Butyric acid,Paraprevotella clara,-0.178,0.138,0.845
+Isobutyric acid,Paraprevotella clara,0.113,0.348,0.877
+Isovaleric acid,Paraprevotella clara,0.0954,0.429,0.894
+Propionic acid ,Paraprevotella clara,-0.0842,0.485,0.908
+Acetic acid,Paraprevotella unclassified,-0.0377,0.755,0.967
+Butyric acid,Paraprevotella unclassified,-0.16,0.184,0.845
+Isobutyric acid,Paraprevotella unclassified,-0.0124,0.918,0.992
+Isovaleric acid,Paraprevotella unclassified,0.0726,0.548,0.923
+Propionic acid ,Paraprevotella unclassified,-0.0823,0.495,0.908
+Acetic acid,Paraprevotella xylaniphila,0.0817,0.498,0.908
+Butyric acid,Paraprevotella xylaniphila,-0.0257,0.831,0.98
+Isobutyric acid,Paraprevotella xylaniphila,0.0041,0.973,0.997
+Isovaleric acid,Paraprevotella xylaniphila,0.195,0.103,0.845
+Propionic acid ,Paraprevotella xylaniphila,0.114,0.343,0.877
+Acetic acid,Parasutterella excrementihominis,0.184,0.124,0.845
+Butyric acid,Parasutterella excrementihominis,0.118,0.329,0.874
+Isobutyric acid,Parasutterella excrementihominis,0.0743,0.538,0.919
+Isovaleric acid,Parasutterella excrementihominis,0.0557,0.645,0.944
+Propionic acid ,Parasutterella excrementihominis,0.0996,0.409,0.891
+Acetic acid,Peptostreptococcaceae noname unclassified,0.0694,0.565,0.925
+Butyric acid,Peptostreptococcaceae noname unclassified,0.165,0.168,0.845
+Isobutyric acid,Peptostreptococcaceae noname unclassified,-0.0388,0.748,0.966
+Isovaleric acid,Peptostreptococcaceae noname unclassified,0.0857,0.477,0.908
+Propionic acid ,Peptostreptococcaceae noname unclassified,-0.006,0.96,0.996
+Acetic acid,Phascolarctobacterium succinatutens,-0.0725,0.548,0.923
+Butyric acid,Phascolarctobacterium succinatutens,0.201,0.093,0.845
+Isobutyric acid,Phascolarctobacterium succinatutens,-0.0898,0.457,0.904
+Isovaleric acid,Phascolarctobacterium succinatutens,-0.117,0.33,0.874
+Propionic acid ,Phascolarctobacterium succinatutens,-0.00647,0.957,0.996
+Acetic acid,Prevotella bivia,NA,NA,NA
+Butyric acid,Prevotella bivia,NA,NA,NA
+Isobutyric acid,Prevotella bivia,NA,NA,NA
+Isovaleric acid,Prevotella bivia,NA,NA,NA
+Propionic acid ,Prevotella bivia,NA,NA,NA
+Acetic acid,Prevotella copri,-0.0667,0.58,0.931
+Butyric acid,Prevotella copri,0.0693,0.566,0.926
+Isobutyric acid,Prevotella copri,0.00277,0.982,0.999
+Isovaleric acid,Prevotella copri,-0.0309,0.798,0.974
+Propionic acid ,Prevotella copri,0.0917,0.447,0.898
+Acetic acid,Prevotella stercorea,0.198,0.0974,0.845
+Butyric acid,Prevotella stercorea,0.134,0.265,0.859
+Isobutyric acid,Prevotella stercorea,0.181,0.131,0.845
+Isovaleric acid,Prevotella stercorea,0.187,0.119,0.845
+Propionic acid ,Prevotella stercorea,0.181,0.131,0.845
+Acetic acid,Proteus penneri,0.195,0.103,0.845
+Butyric acid,Proteus penneri,0.25,0.0357,0.845
+Isobutyric acid,Proteus penneri,0.16,0.181,0.845
+Isovaleric acid,Proteus penneri,0.0214,0.859,0.983
+Propionic acid ,Proteus penneri,0.249,0.0365,0.845
+Acetic acid,Proteus unclassified,0.195,0.103,0.845
+Butyric acid,Proteus unclassified,0.249,0.0366,0.845
+Isobutyric acid,Proteus unclassified,0.164,0.173,0.845
+Isovaleric acid,Proteus unclassified,0.0284,0.814,0.975
+Propionic acid ,Proteus unclassified,0.25,0.0358,0.845
+Acetic acid,Pseudoflavonifractor capillosus,0.187,0.119,0.845
+Butyric acid,Pseudoflavonifractor capillosus,0.111,0.358,0.877
+Isobutyric acid,Pseudoflavonifractor capillosus,-0.00386,0.975,0.998
+Isovaleric acid,Pseudoflavonifractor capillosus,0.135,0.261,0.859
+Propionic acid ,Pseudoflavonifractor capillosus,0.0339,0.779,0.97
+Acetic acid,Roseburia hominis,0.193,0.108,0.845
+Butyric acid,Roseburia hominis,-0.032,0.791,0.973
+Isobutyric acid,Roseburia hominis,0.0816,0.499,0.908
+Isovaleric acid,Roseburia hominis,0.139,0.249,0.859
+Propionic acid ,Roseburia hominis,-0.00749,0.951,0.996
+Acetic acid,Roseburia intestinalis,0.0607,0.615,0.94
+Butyric acid,Roseburia intestinalis,0.127,0.292,0.866
+Isobutyric acid,Roseburia intestinalis,0.0928,0.442,0.895
+Isovaleric acid,Roseburia intestinalis,0.15,0.212,0.85
+Propionic acid ,Roseburia intestinalis,0.248,0.0367,0.845
+Acetic acid,Roseburia inulinivorans,0.195,0.104,0.845
+Butyric acid,Roseburia inulinivorans,-0.0574,0.635,0.943
+Isobutyric acid,Roseburia inulinivorans,0.143,0.233,0.852
+Isovaleric acid,Roseburia inulinivorans,0.206,0.0852,0.845
+Propionic acid ,Roseburia inulinivorans,0.0866,0.473,0.907
+Acetic acid,Roseburia unclassified,-0.295,0.0124,0.845
+Butyric acid,Roseburia unclassified,0.00243,0.984,1
+Isobutyric acid,Roseburia unclassified,-0.214,0.0731,0.845
+Isovaleric acid,Roseburia unclassified,-0.129,0.284,0.863
+Propionic acid ,Roseburia unclassified,-0.123,0.307,0.87
+Acetic acid,Ruminococcaceae bacterium D16,-0.123,0.307,0.87
+Butyric acid,Ruminococcaceae bacterium D16,0.0883,0.464,0.904
+Isobutyric acid,Ruminococcaceae bacterium D16,-0.208,0.0817,0.845
+Isovaleric acid,Ruminococcaceae bacterium D16,-0.0492,0.684,0.955
+Propionic acid ,Ruminococcaceae bacterium D16,-0.0879,0.466,0.904
+Acetic acid,Ruminococcus bromii,0.0562,0.642,0.944
+Butyric acid,Ruminococcus bromii,0.123,0.308,0.87
+Isobutyric acid,Ruminococcus bromii,0.0322,0.79,0.973
+Isovaleric acid,Ruminococcus bromii,0.0661,0.584,0.932
+Propionic acid ,Ruminococcus bromii,0.0612,0.612,0.94
+Acetic acid,Ruminococcus callidus,0.134,0.266,0.86
+Butyric acid,Ruminococcus callidus,0.137,0.254,0.859
+Isobutyric acid,Ruminococcus callidus,0.179,0.135,0.845
+Isovaleric acid,Ruminococcus callidus,0.116,0.334,0.874
+Propionic acid ,Ruminococcus callidus,0.0405,0.737,0.964
+Acetic acid,Ruminococcus champanellensis,-0.192,0.108,0.845
+Butyric acid,Ruminococcus champanellensis,-0.0817,0.498,0.908
+Isobutyric acid,Ruminococcus champanellensis,-0.0875,0.468,0.904
+Isovaleric acid,Ruminococcus champanellensis,-0.204,0.0877,0.845
+Propionic acid ,Ruminococcus champanellensis,-0.035,0.772,0.968
+Acetic acid,Ruminococcus gnavus,-0.0439,0.716,0.961
+Butyric acid,Ruminococcus gnavus,0.015,0.901,0.99
+Isobutyric acid,Ruminococcus gnavus,-0.0417,0.73,0.964
+Isovaleric acid,Ruminococcus gnavus,0.000211,0.999,1
+Propionic acid ,Ruminococcus gnavus,0.0389,0.748,0.966
+Acetic acid,Ruminococcus lactaris,0.0396,0.743,0.966
+Butyric acid,Ruminococcus lactaris,0.0323,0.789,0.972
+Isobutyric acid,Ruminococcus lactaris,0.0459,0.704,0.957
+Isovaleric acid,Ruminococcus lactaris,0.125,0.3,0.868
+Propionic acid ,Ruminococcus lactaris,0.0409,0.735,0.964
+Acetic acid,Ruminococcus obeum,0.126,0.296,0.866
+Butyric acid,Ruminococcus obeum,0.0274,0.821,0.977
+Isobutyric acid,Ruminococcus obeum,0.157,0.191,0.845
+Isovaleric acid,Ruminococcus obeum,0.27,0.0226,0.845
+Propionic acid ,Ruminococcus obeum,0.09,0.455,0.904
+Acetic acid,Ruminococcus sp 5 1 39BFAA,-0.124,0.302,0.87
+Butyric acid,Ruminococcus sp 5 1 39BFAA,-0.108,0.369,0.881
+Isobutyric acid,Ruminococcus sp 5 1 39BFAA,0.0239,0.843,0.98
+Isovaleric acid,Ruminococcus sp 5 1 39BFAA,0.0207,0.864,0.983
+Propionic acid ,Ruminococcus sp 5 1 39BFAA,0.00167,0.989,1
+Acetic acid,Ruminococcus torques,0.147,0.222,0.85
+Butyric acid,Ruminococcus torques,0.117,0.331,0.874
+Isobutyric acid,Ruminococcus torques,0.11,0.363,0.878
+Isovaleric acid,Ruminococcus torques,0.0151,0.9,0.99
+Propionic acid ,Ruminococcus torques,0.00652,0.957,0.996
+Acetic acid,Slackia piriformis,-0.0117,0.923,0.992
+Butyric acid,Slackia piriformis,-0.0758,0.53,0.915
+Isobutyric acid,Slackia piriformis,0.00583,0.961,0.996
+Isovaleric acid,Slackia piriformis,-0.0175,0.885,0.986
+Propionic acid ,Slackia piriformis,0.122,0.309,0.87
+Acetic acid,Streptococcus anginosus,-0.14,0.244,0.856
+Butyric acid,Streptococcus anginosus,0.0408,0.735,0.964
+Isobutyric acid,Streptococcus anginosus,-0.105,0.384,0.883
+Isovaleric acid,Streptococcus anginosus,-0.14,0.244,0.856
+Propionic acid ,Streptococcus anginosus,-0.181,0.131,0.845
+Acetic acid,Streptococcus australis,0.0933,0.439,0.894
+Butyric acid,Streptococcus australis,0,1,1
+Isobutyric acid,Streptococcus australis,0.163,0.174,0.845
+Isovaleric acid,Streptococcus australis,0.157,0.19,0.845
+Propionic acid ,Streptococcus australis,0.128,0.286,0.863
+Acetic acid,Streptococcus parasanguinis,0.168,0.161,0.845
+Butyric acid,Streptococcus parasanguinis,0.0275,0.82,0.977
+Isobutyric acid,Streptococcus parasanguinis,0.0801,0.507,0.909
+Isovaleric acid,Streptococcus parasanguinis,0.192,0.108,0.845
+Propionic acid ,Streptococcus parasanguinis,0.0466,0.699,0.956
+Acetic acid,Streptococcus salivarius,0.192,0.108,0.845
+Butyric acid,Streptococcus salivarius,0.0812,0.501,0.908
+Isobutyric acid,Streptococcus salivarius,0.0493,0.683,0.955
+Isovaleric acid,Streptococcus salivarius,0.163,0.173,0.845
+Propionic acid ,Streptococcus salivarius,0.108,0.368,0.88
+Acetic acid,Streptococcus thermophilus,0.264,0.0261,0.845
+Butyric acid,Streptococcus thermophilus,0.104,0.39,0.885
+Isobutyric acid,Streptococcus thermophilus,0.273,0.0213,0.845
+Isovaleric acid,Streptococcus thermophilus,0.249,0.0364,0.845
+Propionic acid ,Streptococcus thermophilus,0.21,0.0789,0.845
+Acetic acid,Subdoligranulum unclassified,-0.0539,0.655,0.947
+Butyric acid,Subdoligranulum unclassified,0.0809,0.502,0.908
+Isobutyric acid,Subdoligranulum unclassified,-0.102,0.398,0.888
+Isovaleric acid,Subdoligranulum unclassified,-0.042,0.728,0.964
+Propionic acid ,Subdoligranulum unclassified,-0.094,0.435,0.894
+Acetic acid,Sutterella wadsworthensis,0.177,0.14,0.845
+Butyric acid,Sutterella wadsworthensis,-0.0879,0.466,0.904
+Isobutyric acid,Sutterella wadsworthensis,0.176,0.142,0.845
+Isovaleric acid,Sutterella wadsworthensis,0.0688,0.568,0.927
+Propionic acid ,Sutterella wadsworthensis,0.143,0.235,0.855
+Acetic acid,Treponema succinifaciens,-0.0758,0.53,0.915
+Butyric acid,Treponema succinifaciens,-0.198,0.0974,0.845
+Isobutyric acid,Treponema succinifaciens,-0.146,0.225,0.85
+Isovaleric acid,Treponema succinifaciens,-0.169,0.159,0.845
+Propionic acid ,Treponema succinifaciens,-0.0642,0.595,0.932
+Acetic acid,Turicibacter sanguinis,0.27,0.023,0.845
+Butyric acid,Turicibacter sanguinis,0.0102,0.933,0.994
+Isobutyric acid,Turicibacter sanguinis,0.236,0.0472,0.845
+Isovaleric acid,Turicibacter sanguinis,0.244,0.04,0.845
+Propionic acid ,Turicibacter sanguinis,0.219,0.0661,0.845
+Acetic acid,Turicibacter unclassified,0.335,0.00427,0.845
+Butyric acid,Turicibacter unclassified,-0.0464,0.701,0.957
+Isobutyric acid,Turicibacter unclassified,0.334,0.00443,0.845
+Isovaleric acid,Turicibacter unclassified,0.34,0.00369,0.845
+Propionic acid ,Turicibacter unclassified,0.311,0.0083,0.845
+Acetic acid,Veillonella atypica,0.226,0.0578,0.845
+Butyric acid,Veillonella atypica,0.159,0.185,0.845
+Isobutyric acid,Veillonella atypica,0.237,0.0463,0.845
+Isovaleric acid,Veillonella atypica,0.119,0.325,0.874
+Propionic acid ,Veillonella atypica,0.233,0.051,0.845
+Acetic acid,Veillonella dispar,0.157,0.19,0.845
+Butyric acid,Veillonella dispar,-0.157,0.19,0.845
+Isobutyric acid,Veillonella dispar,0.152,0.207,0.845
+Isovaleric acid,Veillonella dispar,0.122,0.309,0.87
+Propionic acid ,Veillonella dispar,0.0933,0.439,0.894
+Acetic acid,Veillonella parvula,0.267,0.0245,0.845
+Butyric acid,Veillonella parvula,0.0189,0.875,0.986
+Isobutyric acid,Veillonella parvula,0.0974,0.419,0.894
+Isovaleric acid,Veillonella parvula,0.306,0.00955,0.845
+Propionic acid ,Veillonella parvula,0.0865,0.473,0.907
+Acetic acid,Veillonella ratti,-0.0758,0.53,0.915
+Butyric acid,Veillonella ratti,-0.198,0.0974,0.845
+Isobutyric acid,Veillonella ratti,-0.146,0.225,0.85
+Isovaleric acid,Veillonella ratti,-0.169,0.159,0.845
+Propionic acid ,Veillonella ratti,-0.0642,0.595,0.932
+Acetic acid,Veillonella unclassified,0.212,0.0759,0.845
+Butyric acid,Veillonella unclassified,-0.024,0.843,0.98
+Isobutyric acid,Veillonella unclassified,0.0678,0.574,0.928
+Isovaleric acid,Veillonella unclassified,0.295,0.0125,0.845
+Propionic acid ,Veillonella unclassified,0.128,0.288,0.866
+,,,,
+Spearman correlation coefficients (n=71).,,,,
